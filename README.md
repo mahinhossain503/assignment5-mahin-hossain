@@ -5,13 +5,14 @@ Basics of programming assignment 5
 
 Fill here:
 
-- Name
-- Group
+- Name Mahin Hossain
+- Group B
 
 ## Description of the project
-
-Write the description of the project here.
+FoCar is a Python project developed for the Basics of Programming course. 
 
 ## User instruction
-
-Write the user instructions here.
+1. Install Python.
+2. Install the libraries required by FoCar.
+3. Run the program with `python main.py`.
+4. Follow the instructions shown by the program.
